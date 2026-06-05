@@ -1,5 +1,7 @@
 # 👁️ Visión por Computadora con OpenCV — Pipeline Completo
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yasminbeltre/vision-computadora-opencv/blob/main/Proyecto_Visi%C3%B3n_por_Computadora_con_OpenCV___Pipeline_Completo.ipynb)
+
 > Proyecto académico desarrollado como parte del curso de Inteligencia Artificial — Módulo 6  
 > **Autora:** Yasmin Beltre | Customer Success & Operations Specialist  
 > [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yasmin%20Beltre-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yasminbeltre)
